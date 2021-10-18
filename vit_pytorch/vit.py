@@ -3,7 +3,7 @@
 # Try second time from mac
 # try upstream
 # try remote_2
-# try remote
+# try find place
 import torch
 from torch import nn
 
