@@ -2,6 +2,7 @@
 # test from mac
 # Try second time from mac
 # try upstream
+# try remote_2
 import torch
 from torch import nn
 
